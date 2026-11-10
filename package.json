@@ -1,0 +1,26 @@
+{
+  "name": "qa_dojo_hw6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmytry-S/qa-dojo-hw6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dmytry-S/qa-dojo-hw6/issues"
+  },
+  "homepage": "https://github.com/Dmytry-S/qa-dojo-hw6#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.2"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.1"
+  }
+}
